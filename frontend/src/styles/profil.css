@@ -1,0 +1,98 @@
+.background-photo {
+  background-image: url(./images/wall.jpg);
+  background-size: cover;
+  background-position: center;
+    padding-top: 220px;
+}
+
+.main-div{
+    padding: 0 10%;
+}
+
+.image{
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    top: 30%;
+    left: 12%;
+    border: 1px solid #646464;
+    background-color: white;
+    padding: 2px;
+}
+
+.profile-content{
+    background-color: whitesmoke;
+    height: 23vh;
+
+}
+
+.name-div{
+    margin-left: 215px;
+    padding-top: 30px;
+    height: inherit;
+}
+
+.first-span{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.second-span{
+    font-size: 20px;
+    /* font-weight: lighter; */
+}
+
+.btns-div{
+    margin-top: -40px;
+}
+
+.btns-div button{
+    width: 141.03px;
+    border: none;
+    height: 40px;
+    
+}
+
+
+.icons-div{
+    position: absolute;
+    left: 60%;
+    top:43%;
+    cursor: pointer;
+}
+
+.icons{
+    width: 140px;
+    font-size: 30px;
+}
+
+.feed-div{
+    width: 100%;
+    display: flex;
+  justify-content: space-between;
+    
+}
+
+.post-profil{
+    width: 60% ;
+}
+
+.topCrypto-img{
+    width: 30px;
+    height: 30px;
+    margin-right:20px ;
+}
+
+.replaced-span{
+    position: absolute;
+    top: 60%;
+    left: 2%;
+}
+
+.card-head{
+    background-image: linear-gradient(to right, rgba(163, 204, 177, 0.992),rgb(138, 188, 167),rgb(203, 234, 213));
+}
+
+.card-head2{
+    background-image: linear-gradient(to right, rgba(163, 167, 204, 0.992),rgb(138, 145, 188),rgb(203, 203, 234));
+}

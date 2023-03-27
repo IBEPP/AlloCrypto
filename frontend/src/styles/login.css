@@ -1,0 +1,37 @@
+.imgs-animate{
+    display: flex;
+    justify-content: right;
+    /* position: absolute;
+    left: 80%; */
+    
+}
+
+.child-one{
+    position: absolute;
+    top: 8%;
+    left: 75%;
+    width: 200px;
+    height: 200px;
+}
+
+.child-two{
+    position: absolute;
+    top: 43%;
+    left: 75%;
+    width: 200px;
+    height: 200px;
+}
+.child-three{
+    position: absolute;
+    top: 24%;
+    left: 87%;
+    width: 200px;
+    height: 200px;
+}
+.logo-login {
+    width: 35vh;
+    height: 35vh;
+    margin: auto;
+    display: block;
+    margin-top: 2vh;
+}
